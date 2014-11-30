@@ -1,0 +1,9 @@
+D:\Infosys\Users\Nehemiah\Tools\RemoteRecycle\RemoteRecycleSolution\RemoteRecycle\bin\RemoteRecycle.dll
+D:\Infosys\Users\Nehemiah\Tools\RemoteRecycle\RemoteRecycleSolution\RemoteRecycle\bin\RemoteRecycle.pdb
+D:\Infosys\Users\Nehemiah\Tools\RemoteRecycle\RemoteRecycleSolution\RemoteRecycle\obj\Debug\RemoteRecycle.dll
+D:\Infosys\Users\Nehemiah\Tools\RemoteRecycle\RemoteRecycleSolution\RemoteRecycle\obj\Debug\RemoteRecycle.pdb
+D:\Learnings\Sitecore\RemoteRecycleSolution\RemoteRecycle\bin\RemoteRecycle.dll
+D:\Learnings\Sitecore\RemoteRecycleSolution\RemoteRecycle\bin\RemoteRecycle.pdb
+D:\Learnings\Sitecore\RemoteRecycleSolution\RemoteRecycle\obj\Debug\ResolveAssemblyReference.cache
+D:\Learnings\Sitecore\RemoteRecycleSolution\RemoteRecycle\obj\Debug\RemoteRecycle.dll
+D:\Learnings\Sitecore\RemoteRecycleSolution\RemoteRecycle\obj\Debug\RemoteRecycle.pdb
